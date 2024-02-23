@@ -2,7 +2,7 @@
 
 🔐 This repository demonstrates the integration of Auth0 and Microsoft Identity for secure web authentication. The application features a seamless login and registration process, providing users with a user-friendly authentication experience.
 
-<video src="https://github.com/PrinceSah09/Login-and-Registration-using-Auth0/assets/81484022/41d6d53f-8362-457d-8eb2-691ff8d9f437"></video>
+<video src = "https://github.com/PrinceSah09/Login-and-Registration-using-Auth0/assets/81484022/41d6d53f-8362-457d-8eb2-691ff8d9f437"></video>
 
 ## Features
 
