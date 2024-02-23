@@ -17,18 +17,16 @@
 
 /* Styles for the header text */
 .headerText {
-    color: rgb(19, 7, 33);
-    padding: 10px 13px;
-    border-radius: 15px;
+    color: rgb(173, 175, 173);
+    padding: 10px 13px; 
     font-size: 25px;
     margin-top: -10px;
-    margin-bottom: 10px;
-    text-shadow: 0px 0px 10px white;
+    margin-bottom: 10px; 
 }
 
 /* Styles for the subtitle within the header text */
 .headerText span {
-    color: red;
+    color: rgb(255,163,26);
     font-size: 30px;
     background-color: rgb(0, 0, 0);
     padding: 5px 10px;
